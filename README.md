@@ -1,8 +1,8 @@
-# Game 2 - Educational Mini Games Collection
+# EduGames - Educational Mini Games Collection
 
 ## 🎮 프로젝트 소개
 
-**Game 2**는 Streamlit으로 구현된 3가지 교육용 인터랙티브 게임 모음입니다. 아이들이 **수열 패턴 인식**, **날씨 예측**, **가격 계산** 등 기초 수학과 논리 개념을 게임을 통해 재미있게 학습할 수 있습니다.
+**EduGames**는 Streamlit으로 구현된 3가지 교육용 인터랙티브 게임 모음입니다. 아이들이 **수열 패턴 인식**, **날씨 예측**, **가격 계산** 등 기초 수학과 논리 개념을 게임을 통해 재미있게 학습할 수 있습니다.
 
 모든 게임은 **목표 점수(3점) 달성 시스템**으로 진행되며, 연속 정답에 따른 **콤보 시스템**과 **피드백**을 제공합니다.
 
@@ -151,7 +151,7 @@
 ## 📁 디렉토리 구조
 
 ```
-game2/
+EduGames/
 ├── number-pattern.py          # 수열 패턴 게임
 ├── weather.py                 # 날씨 예측 게임
 ├── price.py                    # 가격 계산 게임
@@ -170,8 +170,8 @@ game2/
 ### 2. 로컬 설치
 
 ```bash
-git clone https://github.com/flying-adventure/game2.git
-cd game2
+git clone https://github.com/flying-adventure/EduGames.git
+cd EduGames
 pip install -r requirements.txt
 ```
 
